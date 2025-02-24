@@ -1,1 +1,1 @@
-## Exercices en algo python
+## Algorithmes en python
